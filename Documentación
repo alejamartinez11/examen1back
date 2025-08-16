@@ -1,0 +1,7 @@
+ERRORES: 
+- anotaciones JPA @Entity, @Id, @GeneratedValue,@column.
+-crear enum 
+-tipos de datos y sus nombres
+-relaciones estaban mal estructuradas
+-base de datos no estaba conectada 
+-cambiar un this
